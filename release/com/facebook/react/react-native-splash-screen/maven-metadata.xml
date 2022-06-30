@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-splash-screen</artifactId>
   <versioning>
-    <latest>3.2.0-jitsi-11030467</latest>
-    <release>3.2.0-jitsi-11030467</release>
+    <latest>3.2.0-jitsi-11030584</latest>
+    <release>3.2.0-jitsi-11030584</release>
     <versions>
       <version>3.2.0-jitsi-9158188</version>
       <version>3.2.0-jitsi-9195828</version>
@@ -66,7 +66,8 @@
       <version>3.2.0-jitsi-11017633</version>
       <version>3.2.0-jitsi-11017732</version>
       <version>3.2.0-jitsi-11030467</version>
+      <version>3.2.0-jitsi-11030584</version>
     </versions>
-    <lastUpdated>20220630151119</lastUpdated>
+    <lastUpdated>20220630153046</lastUpdated>
   </versioning>
 </metadata>
