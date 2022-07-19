@@ -3,8 +3,8 @@
   <groupId>org.jitsi.react</groupId>
   <artifactId>jitsi-meet-sdk</artifactId>
   <versioning>
-    <latest>3.5.13</latest>
-    <release>3.5.13</release>
+    <latest>3.5.14</latest>
+    <release>3.5.14</release>
     <versions>
       <version>3.5.0</version>
       <version>3.5.1</version>
@@ -22,7 +22,8 @@
       <version>3.8.2</version>
       <version>3.5.13</version>
       <version>3.8.4</version>
+      <version>3.5.14</version>
     </versions>
-    <lastUpdated>20220712041722</lastUpdated>
+    <lastUpdated>20220719023022</lastUpdated>
   </versioning>
 </metadata>
