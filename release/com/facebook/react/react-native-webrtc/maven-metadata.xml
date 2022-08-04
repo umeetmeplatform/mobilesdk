@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-webrtc</artifactId>
   <versioning>
-    <latest>1.89.1-jitsi-11278286</latest>
-    <release>1.89.1-jitsi-11278286</release>
+    <latest>1.89.1-jitsi-11330692</latest>
+    <release>1.89.1-jitsi-11330692</release>
     <versions>
       <version>1.89.1-jitsi-9158188</version>
       <version>1.89.1-jitsi-9195828</version>
@@ -92,7 +92,8 @@
       <version>1.89.1-jitsi-11248358</version>
       <version>1.89.1-jitsi-11262568</version>
       <version>1.89.1-jitsi-11278286</version>
+      <version>1.89.1-jitsi-11330692</version>
     </versions>
-    <lastUpdated>20220729073424</lastUpdated>
+    <lastUpdated>20220804090843</lastUpdated>
   </versioning>
 </metadata>
