@@ -3,8 +3,8 @@
   <groupId>jitsi-meet</groupId>
   <artifactId>react-native-reanimated</artifactId>
   <versioning>
-    <latest>1.13.4-jitsi-11922577</latest>
-    <release>1.13.4-jitsi-11922577</release>
+    <latest>1.13.4-jitsi-11924450</latest>
+    <release>1.13.4-jitsi-11924450</release>
     <versions>
       <version>1.13.4-jitsi-11604353</version>
       <version>1.13.4-jitsi-11606690</version>
@@ -31,7 +31,8 @@
       <version>1.13.4-jitsi-11870499</version>
       <version>1.13.4-jitsi-11870551</version>
       <version>1.13.4-jitsi-11922577</version>
+      <version>1.13.4-jitsi-11924450</version>
     </versions>
-    <lastUpdated>20221011211615</lastUpdated>
+    <lastUpdated>20221012022831</lastUpdated>
   </versioning>
 </metadata>
