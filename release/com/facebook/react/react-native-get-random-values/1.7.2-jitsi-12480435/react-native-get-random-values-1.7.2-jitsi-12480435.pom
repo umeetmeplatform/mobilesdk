@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-get-random-values</artifactId>
+  <version>1.7.2-jitsi-12480435</version>
+  <packaging>aar</packaging>
+  <name>react-native-get-random-values</name>
+  <description>A small implementation of `crypto.getRandomValues` for React Native. This is useful to polyfill for libraries like [uuid](https://www.npmjs.com/package/uuid) that depend on it.</description>
+  <url>https://github.com/LinusU/react-native-get-random-values#readme</url>
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native</artifactId>
+      <version>0.68</version>
+    </dependency>
+  </dependencies>
+</project>
